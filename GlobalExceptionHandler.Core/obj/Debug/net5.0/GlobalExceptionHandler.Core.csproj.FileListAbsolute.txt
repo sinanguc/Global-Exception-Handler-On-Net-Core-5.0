@@ -1,0 +1,11 @@
+C:\Users\Sinan\source\repos\Global Exception Handler\GlobalExceptionHandler.Core\obj\Debug\net5.0\GlobalExceptionHandler.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sinan\source\repos\Global Exception Handler\GlobalExceptionHandler.Core\obj\Debug\net5.0\GlobalExceptionHandler.Core.AssemblyInfoInputs.cache
+C:\Users\Sinan\source\repos\Global Exception Handler\GlobalExceptionHandler.Core\obj\Debug\net5.0\GlobalExceptionHandler.Core.AssemblyInfo.cs
+C:\Users\Sinan\source\repos\Global Exception Handler\GlobalExceptionHandler.Core\obj\Debug\net5.0\GlobalExceptionHandler.Core.csproj.CoreCompileInputs.cache
+C:\Users\Sinan\source\repos\Global Exception Handler\GlobalExceptionHandler.Core\bin\Debug\net5.0\GlobalExceptionHandler.Core.deps.json
+C:\Users\Sinan\source\repos\Global Exception Handler\GlobalExceptionHandler.Core\bin\Debug\net5.0\GlobalExceptionHandler.Core.dll
+C:\Users\Sinan\source\repos\Global Exception Handler\GlobalExceptionHandler.Core\bin\Debug\net5.0\ref\GlobalExceptionHandler.Core.dll
+C:\Users\Sinan\source\repos\Global Exception Handler\GlobalExceptionHandler.Core\bin\Debug\net5.0\GlobalExceptionHandler.Core.pdb
+C:\Users\Sinan\source\repos\Global Exception Handler\GlobalExceptionHandler.Core\obj\Debug\net5.0\GlobalExceptionHandler.Core.dll
+C:\Users\Sinan\source\repos\Global Exception Handler\GlobalExceptionHandler.Core\obj\Debug\net5.0\ref\GlobalExceptionHandler.Core.dll
+C:\Users\Sinan\source\repos\Global Exception Handler\GlobalExceptionHandler.Core\obj\Debug\net5.0\GlobalExceptionHandler.Core.pdb

@@ -1,0 +1,24 @@
+﻿@using GlobalExceptionHandler.Core.Models;
+@using GlobalExceptionHandler.Core.Enums;
+@model GenericResult
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+@if (Model.Success)
+{
+    RecordModel recordModel = (RecordModel)Model.Data;
+    <h1>@Html.Raw((EnumResponseMessageType)recordModel.ErrorType)</h1>
+}
+
+
+<h2>Message: @Model.Message</h2>
+<h2>ExecutionTime: @Model.ExecutionTime</h2>
+<h2>ServerTime : @Model.ServerTime</h2>
+<h2>StatusCode: @Model.StatusCode</h2>
+<h2>Version: @Model.Version</h2>
