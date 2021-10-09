@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlobalExceptionHandler.Core", "GlobalExceptionHandler.Core\GlobalExceptionHandler.Core.csproj", "{F55235E5-0A9E-41B7-97BE-FDBCCE45C65A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GlobalExceptionHandler.Core", "GlobalExceptionHandler.Core\GlobalExceptionHandler.Core.csproj", "{F55235E5-0A9E-41B7-97BE-FDBCCE45C65A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlobalExceptionHandler.WebApi", "GlobalExceptionHandler.WebApi\GlobalExceptionHandler.WebApi.csproj", "{D92C8D4E-9F4A-4475-B924-31ECC6314207}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GlobalExceptionHandler.WebApi", "GlobalExceptionHandler.WebApi\GlobalExceptionHandler.WebApi.csproj", "{D92C8D4E-9F4A-4475-B924-31ECC6314207}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlobalExceptionHandler.WebUI", "GlobalExceptionHandler.WebUI\GlobalExceptionHandler.WebUI.csproj", "{199BE865-1F1C-44F6-B9D6-B2149FDCD508}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GlobalExceptionHandler.WebUI", "GlobalExceptionHandler.WebUI\GlobalExceptionHandler.WebUI.csproj", "{199BE865-1F1C-44F6-B9D6-B2149FDCD508}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlobalExceptionHandler.PerformanceTest", "GlobalExceptionHandler.PerformanceTest\GlobalExceptionHandler.PerformanceTest.csproj", "{27AEFA2D-FA6C-4FEC-B6A2-9EB6FAE70907}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{199BE865-1F1C-44F6-B9D6-B2149FDCD508}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{199BE865-1F1C-44F6-B9D6-B2149FDCD508}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{199BE865-1F1C-44F6-B9D6-B2149FDCD508}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27AEFA2D-FA6C-4FEC-B6A2-9EB6FAE70907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27AEFA2D-FA6C-4FEC-B6A2-9EB6FAE70907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27AEFA2D-FA6C-4FEC-B6A2-9EB6FAE70907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27AEFA2D-FA6C-4FEC-B6A2-9EB6FAE70907}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

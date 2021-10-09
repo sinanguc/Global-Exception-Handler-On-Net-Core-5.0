@@ -1,0 +1,16 @@
+C:\Users\Sinan\source\repos\Global Exception Handler\GlobalExceptionHandler.PerformanceTest\bin\Debug\net5.0\GlobalExceptionHandler.PerformanceTest.exe
+C:\Users\Sinan\source\repos\Global Exception Handler\GlobalExceptionHandler.PerformanceTest\bin\Debug\net5.0\GlobalExceptionHandler.PerformanceTest.deps.json
+C:\Users\Sinan\source\repos\Global Exception Handler\GlobalExceptionHandler.PerformanceTest\bin\Debug\net5.0\GlobalExceptionHandler.PerformanceTest.runtimeconfig.json
+C:\Users\Sinan\source\repos\Global Exception Handler\GlobalExceptionHandler.PerformanceTest\bin\Debug\net5.0\GlobalExceptionHandler.PerformanceTest.runtimeconfig.dev.json
+C:\Users\Sinan\source\repos\Global Exception Handler\GlobalExceptionHandler.PerformanceTest\bin\Debug\net5.0\GlobalExceptionHandler.PerformanceTest.dll
+C:\Users\Sinan\source\repos\Global Exception Handler\GlobalExceptionHandler.PerformanceTest\bin\Debug\net5.0\ref\GlobalExceptionHandler.PerformanceTest.dll
+C:\Users\Sinan\source\repos\Global Exception Handler\GlobalExceptionHandler.PerformanceTest\bin\Debug\net5.0\GlobalExceptionHandler.PerformanceTest.pdb
+C:\Users\Sinan\source\repos\Global Exception Handler\GlobalExceptionHandler.PerformanceTest\obj\Debug\net5.0\GlobalExceptionHandler.PerformanceTest.csproj.AssemblyReference.cache
+C:\Users\Sinan\source\repos\Global Exception Handler\GlobalExceptionHandler.PerformanceTest\obj\Debug\net5.0\GlobalExceptionHandler.PerformanceTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sinan\source\repos\Global Exception Handler\GlobalExceptionHandler.PerformanceTest\obj\Debug\net5.0\GlobalExceptionHandler.PerformanceTest.AssemblyInfoInputs.cache
+C:\Users\Sinan\source\repos\Global Exception Handler\GlobalExceptionHandler.PerformanceTest\obj\Debug\net5.0\GlobalExceptionHandler.PerformanceTest.AssemblyInfo.cs
+C:\Users\Sinan\source\repos\Global Exception Handler\GlobalExceptionHandler.PerformanceTest\obj\Debug\net5.0\GlobalExceptionHandler.PerformanceTest.csproj.CoreCompileInputs.cache
+C:\Users\Sinan\source\repos\Global Exception Handler\GlobalExceptionHandler.PerformanceTest\obj\Debug\net5.0\GlobalExceptionHandler.PerformanceTest.dll
+C:\Users\Sinan\source\repos\Global Exception Handler\GlobalExceptionHandler.PerformanceTest\obj\Debug\net5.0\ref\GlobalExceptionHandler.PerformanceTest.dll
+C:\Users\Sinan\source\repos\Global Exception Handler\GlobalExceptionHandler.PerformanceTest\obj\Debug\net5.0\GlobalExceptionHandler.PerformanceTest.pdb
+C:\Users\Sinan\source\repos\Global Exception Handler\GlobalExceptionHandler.PerformanceTest\obj\Debug\net5.0\GlobalExceptionHandler.PerformanceTest.genruntimeconfig.cache
